@@ -190,17 +190,3 @@ The forecast error metric helps identify:
 - Predictive analytics for demand planning
 
 ---
-
-## 📞 Contact & Support
-
-For questions or issues related to this project, please refer to the project documentation.
-
----
-
-## 📄 License
-
-This project is provided for educational and analytical purposes.
-
----
-
-**Last Updated**: June 2026
